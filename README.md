@@ -20,6 +20,7 @@ The script accepts four diffrent arguments, theese are:
 
 #
 Disclamer!
+
 Because the install script installs a job in the crontab, make sure that you backup the users crontab before proceeding!
 Even if the installer is made to check for existing crontab jobs and ammend jobs to it, the best practice is to back it up before use!
 
