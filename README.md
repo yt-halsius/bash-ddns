@@ -18,7 +18,10 @@ The script accepts four diffrent arguments, theese are:
 -P --Print the actual WAN-IP and the Last known WAN-IP
 -H --Prints the usage information.
 
-
+#
+Disclamer!
+Because the install script installs a job in the crontab, make sure that you backup the users crontab before proceeding!
+Even if the installer is made to check for existing crontab jobs and ammend jobs to it, the best practice is to back it up before use!
 
 2021-01-23
 yt-halsius
